@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "dev.knacion.flutter_deep_linking_demo",
+                 "sha256_cert_fingerprints": ["11:2B:39:51:52:C0:01:2D:C9:F5:55:64:D4:67:A6:09:38:91:2E:A4:49:48:D8:B3:90:97:2F:16:54:78:35:81"] }
+  }]
